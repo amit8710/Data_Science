@@ -67,14 +67,6 @@ print("A" in name) # True
 print("m" not in name) # False
 
 
-#Data Types and ther methods
-
-1. int => Wholenumber data type
-2. float => Decimal number data type    
-3. str => Wrapped with single or double quotes
-4. bool => True or False
-
-
 # type() => Used to check the data type of a variable.
 
 

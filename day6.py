@@ -4,21 +4,21 @@
 # len(thisdict) => print the number of items in the dictionary.
 # dict(...) => constructor is used to make dictionary.
 # get(.) methods => which will givee the same result
-
+# del => keyword is used to delete the dict and clear() method is used to empties the dict
 #Example
-thisdict = {
-    "brand": "TATA",
-    "model": "SumoGold",
-    "Year": 2013
-}
+# thisdict = {
+#     "brand": "TATA",
+#     "model": "SumoGold",
+#     "Year": 2013
+# }
 # print(thisdict["brand"]) 
 # print(thisdict.get("model")) => get(.) methods
 # print(thisdict.keys()) => keys() method which will print all the keys
 # print(thisdict.values()) => values() method is used to print all the value from the dict
 # print(thisdict.items()) => items() method is used to print all the keys and valuees from the dict
 # thisdict.update({"Year": 2018}) update() method is used to update the values.
-del thisdict["model"]
-print(thisdict)
+# del thisdict["model"]
+# print(thisdict)
 
 
 #range ()=> It generates the sequensce of numbers
@@ -65,6 +65,3 @@ print(thisdict)
 # print(list1[-1:-5:-1]) #ans => [10, 9, 8, 7]
 
 
-
-
-# List comprehension

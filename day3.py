@@ -47,7 +47,7 @@
 # set1 = {1, "Amit", "Basnet", False,1,2,3,4,5}
 # print(set1)
 
-# Dictionary => Dictionary is a mutable data type
+# Dictionary => Dictionary is a mutable data type (imp)
 # Dictionary is wrapped with curly braces {}
 # Dictionary contains key and value pair
 # key = Always string data type
@@ -55,9 +55,13 @@
 
 # Dictionary example
 
-dict1 = {
-    "name": "Amit", 
-    "age":23, 
-    "is_student": False
-    }
-print(dict1)
+# dict1 = {
+#     "name": "Amit", 
+#     "age":23, 
+#     "is_student": False
+#     }
+# print(dict1)
+
+#JSON => JavaScript Object Notation 
+# It is a data format that is used to store and exchange data. 
+# It is similar to dictionary in python.

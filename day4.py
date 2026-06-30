@@ -32,7 +32,7 @@
 # else:
 #     print("Fail")
     
-#Nested IF Else 
+#Nested IF Else : it conatain if else inside ifelse
 #Example
 num1 = int(input("Enter a num1: "))
 num2 = int(input("Enter a num2: "))
